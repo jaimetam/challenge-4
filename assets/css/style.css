@@ -1,0 +1,61 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+button {
+    margin-top: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.High-Score-container {
+    color: black;
+    display: inline;
+}
+
+.Timer-container {
+    color: black;
+    justify-content: flex-end;
+    font-size: large;
+}
+
+.Question-container {
+    justify-content: space-between;
+}
+
+ul {
+    list-style: none;
+}
+
+.Question-position {
+    display: flex;
+    justify-content: center;
+}
+
+.Title {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+/* Add styles for the Save High Score section */
+#save-score-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#playerName {
+    margin-top: 10px;
+}
