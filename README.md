@@ -13,4 +13,4 @@ we where tasked to creat a page with a java script quiz that saves the high scor
 ## img 
 ![Screenshot (27)](https://github.com/jaimetam/challenge-4/assets/151596070/fa96f6a0-c0ca-4efc-895a-c1b5c7245298)
 
-## N/A License Please refer to the LICENSE in the repo![Screenshot (27)](https://github.com/jaimetam/challenge-4/assets/151596070/29477d66-f18c-4081-9719-30cdadcd7c57)
+## N/A License Please refer to the LICENSE in the repo
